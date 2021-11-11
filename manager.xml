@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Managers>
+
+
+
+
+
+
+<Manager managerId="111"><Password>administrator</Password><Name>Adam</Name><Address>Mumbai,Maharashtra</Address><Contact>4938567</Contact><Email>adam@gmail.com</Email><Branch>Mumbai</Branch></Manager>
+<Manager managerId="384"><Password>car</Password><Name>Carl Wilson</Name><Address>California</Address><Contact>398457</Contact><Email>carlwilson@gmail.com</Email><Branch>California</Branch></Manager>
+</Managers>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Couriers>
+
+<Courier courierId="570"><managerId>384</managerId><From><userId>248</userId></From><To><Name>Julie</Name><Address>San Diego,CA</Address><Contact>398452</Contact><Email>jul@gmail.com</Email></To><Type>Normal Post</Type><Qty>5</Qty><Fees>155</Fees><Status>Booked</Status><FeedBack>NA</FeedBack></Courier><Courier courierId="950"><managerId>384</managerId><From><userId>435</userId></From><To><Name>Marcus</Name><Address>Delhi</Address><Contact>983475</Contact><Email>marc@gmail.com</Email></To><Type>Speed Post</Type><Qty>1</Qty><Fees>100</Fees><Status>Booked</Status><FeedBack>NA</FeedBack></Courier></Couriers>

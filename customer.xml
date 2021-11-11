@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Customers>
+
+<Customer userId="248">
+<Password>doc</Password>
+<Name>Josh</Name>
+<Address>San Jose,California</Address>
+<Contact>123</Contact>
+<Email>sam@gmail.com</Email>
+</Customer>
+
+<Customer userId="435"><Password>bat</Password><Name>Bob</Name><Address>San Francisco, CA</Address><Contact>389457</Contact><Email>bob@gmail.com</Email></Customer></Customers>
